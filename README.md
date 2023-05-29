@@ -1,4 +1,5 @@
 # ayushiMish
+![logo](https://github.com/ayushiMis/ayushiMish/blob/main/pic%201.png)
 <h1 align="center">Hi 👋, I'm Ayushi Mishra</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 
